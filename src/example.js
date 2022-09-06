@@ -1,0 +1,18 @@
+users:[
+    {
+        usename:"apple@gmail.com",
+        password:"Doodle#22"
+    },
+    {
+        usename:"banana@gmail.com",
+        password:"Doodle#24"
+    },
+    {
+        usename:"carrot@gmail.com",
+        password:"Doodle#26"
+    },
+    {
+        usename:"dragon@gmail.com",
+        password:"Doodle#28"
+    }
+]

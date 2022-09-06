@@ -1,0 +1,35 @@
+.mail_image{
+    background-image: cover;
+    height: 100vh;
+    margin-left: -20px;
+}
+.logout_button{
+   display: flex;
+   cursor: pointer;
+}
+.logout_button:hover{
+    color: rgb(210, 70, 70);
+}
+.overall_mail_page{
+    display: flex;
+    justify-content: space-between;
+}
+.header_color{
+    color: rgb(210, 70, 70);
+}
+.compose{
+    cursor: pointer;
+    text-decoration: underline;
+}
+.compose:hover{
+    color: rgb(210, 70, 70);
+}
+.inbox{
+    color: rgb(210, 70, 70);
+}
+.user{
+    color: rgb(210, 70, 70);
+}
+.logout{
+    margin-left: inherit;
+}
